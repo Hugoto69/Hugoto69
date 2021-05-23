@@ -9,9 +9,9 @@
 
 ## What can i do?
 
-`Website Dev` (html, css, js, php)
+`Website Dev`
 <br>
-`Cybersecurity Web` (python)
+`Cybersecurity Web`
 <br>
 `Roblox Build` (Only Build not Lua Dev)
 
