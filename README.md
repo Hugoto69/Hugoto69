@@ -53,7 +53,7 @@ I was born on March 7, 2005.
 <br>
 • [Steam Group](https://steamcommunity.com/groups/hugoto69)
 
-## Contact
+## Email
 
 hugoto6969@gmail.com
 
