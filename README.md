@@ -17,6 +17,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=jolly)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoto69&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
