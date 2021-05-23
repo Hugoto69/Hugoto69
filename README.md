@@ -1,4 +1,4 @@
-# Hello, it's me
+# Hello,
 
 
 [I.S.K Inc Builder](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
