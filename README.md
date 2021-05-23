@@ -2,9 +2,12 @@
 
 
 My projects:
-[I.S.K Inc Builder](https://www.roblox.com/groups/7094138/I-S-K-Inc) <br>
-[NEXUS Tech Inc. Builder](https://www.roblox.com/groups/5990010/NEXUS-Tech-Inc) <br>
-[BlueTechnician Inc. Human Ressource Officer & Web Developer](https://www.roblox.com/groups/8844039/BlueTechnician-Incorporated) <br>
+<br>
+[I.S.K Inc Builder](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
+<br>
+[NEXUS Tech Inc. Builder](https://www.roblox.com/groups/5990010/NEXUS-Tech-Inc) 
+<br>
+[BlueTechnician Inc. Human Ressource Officer & Web Developer](https://www.roblox.com/groups/8844039/BlueTechnician-Incorporated)
 
 ## What can i do?
 
