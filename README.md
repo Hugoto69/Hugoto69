@@ -1,8 +1,6 @@
 # Hello, it's me
 
 
-My projects:
-<br>
 [I.S.K Inc Builder](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
 <br>
 [NEXUS Tech Inc. Builder](https://www.roblox.com/groups/5990010/NEXUS-Tech-Inc) 
