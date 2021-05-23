@@ -16,7 +16,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hugoto69&theme=Gradient)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
