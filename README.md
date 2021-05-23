@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, it's me
+
+
+My projects:
+[I.S.K Inc Builder](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
+[NEXUS Tech Inc. Builder](https://www.roblox.com/groups/5990010/NEXUS-Tech-Inc) 
+[BlueTechnician Inc. Human Ressource Officer & Web Developer](https://www.roblox.com/groups/8844039/BlueTechnician-Incorporated)
+
+## What can i do?
+
+--> `Website Dev` (html, css, js, php), `Cybersecurity Web` (python) and `Roblox Build` (Only Build not Lua Dev)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=algolia)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoto69&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hugoto69&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <!--
-**Hugoto69/Hugoto69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Join my discord server:
 
-Here are some ideas to get you started:
+[ohhh click](https://discord.gg/dFD2VzV)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![beep beep i'm a sheep](https://64.media.tumblr.com/tumblr_m9py0wFtq01rshzllo1_500.gifv)
 -->
