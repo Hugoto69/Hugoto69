@@ -57,13 +57,4 @@ I was born on March 7, 2005.
 
 hugoto6969@gmail.com
 
-
-
-
-
-
-
-
-<!--
-![beep beep i'm a sheep](https://64.media.tumblr.com/tumblr_m9py0wFtq01rshzllo1_500.gifv)
--->
+![Footer](https://i.giphy.com/T7xPZ0HoYDAK7doxnU.gif)
