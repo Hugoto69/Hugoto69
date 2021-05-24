@@ -3,6 +3,8 @@ Welcome to my Personal ReadMe!
 Please Check this for Embed: https://github.com/anuraghazra/github-readme-stats
 -->
 
+![Hey](https://i.giphy.com/T7xPZ0HoYDAK7doxnU.gif)
+
 # Hello,
 
 I speak French and English and I learn Japanese.
@@ -56,5 +58,3 @@ I was born on March 7, 2005.
 ## Email
 
 hugoto6969@gmail.com
-
-![Footer](https://i.giphy.com/T7xPZ0HoYDAK7doxnU.gif)
