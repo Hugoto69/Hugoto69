@@ -3,7 +3,7 @@ Welcome to my Personal ReadMe!
 Please Check this for Embed: https://github.com/anuraghazra/github-readme-stats
 -->
 
-![Hey](https://i.giphy.com/T7xPZ0HoYDAK7doxnU.gif)
+![Hey](https://s6.gifyu.com/images/Hugoto69.md.gif)
 
 # Hello,
 
@@ -21,7 +21,7 @@ I was born on March 7, 2005.
 
 • [BlueTechnician Incorporated Board of Executives](https://www.roblox.com/groups/8844039/BlueTechnician-Incorporated)
 <br>
-• [I.S.K Incorporated Builder](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
+• [I.S.K Incorporated Main Manager](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
 
 ## What can i do?
 
@@ -29,7 +29,7 @@ I was born on March 7, 2005.
 <br>
 • `Cybersecurity Web`
 <br>
-• `Roblox Build` (Only Build not Lua Dev)
+• `Roblox Developer` (Only Build not Lua Dev)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=jolly)
 <br>
