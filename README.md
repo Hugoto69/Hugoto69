@@ -3,7 +3,7 @@ Welcome to my Personal ReadMe!
 Please Check this for Embed: https://github.com/anuraghazra/github-readme-stats
 -->
 
-![Hey](https://media.tenor.com/images/cbec3f06efbaf5678d6e00bd697be4d5/tenor.gif)
+![Hey](https://i.ibb.co/KxfgGfk/Hugoto69.png)
 
 # Hello,
 
