@@ -21,15 +21,13 @@ I was born on March 7, 2005.
 
 • [BlueTechnician Incorporated Board of Executives](https://www.roblox.com/groups/8844039/BlueTechnician-Incorporated)
 <br>
-• [I.S.K Incorporated Main Manager](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
+• [I.S.K Incorporated Right Co CEO](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
 
 ## What can i do?
 
 • `Website Dev`
 <br>
 • `Cybersecurity Web`
-<br>
-• `Roblox Developer` (Only Build not Lua Dev)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=jolly)
 <br>
