@@ -19,7 +19,7 @@ I was born on March 7, 2005.
 
 ## Projects
 
-• [BlueTechnician Incorporated Board of Executives](https://www.roblox.com/groups/8844039/BlueTechnician-Incorporated)
+• [Bass Boosted Community](https://www.youtube.com/channel/UCVJ97tojqgH5Z6VjqbHiOHA)
 <br>
 • [I.S.K Incorporated Right Co CEO](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
 
