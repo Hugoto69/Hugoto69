@@ -28,6 +28,8 @@ I was born on March 7, 2005.
 • `Website Dev`
 <br>
 • `Cybersecurity Web`
+<br>
+• `Roblox Developer`
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=jolly)
 <br>
