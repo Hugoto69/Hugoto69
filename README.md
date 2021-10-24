@@ -20,8 +20,6 @@ I was born on March 7, 2005.
 ## Projects
 
 • [Bass Boosted Community](https://www.youtube.com/channel/UCVJ97tojqgH5Z6VjqbHiOHA)
-<br>
-• [I.S.K Incorporated Right Co CEO](https://www.roblox.com/groups/7094138/I-S-K-Inc) 
 
 ## What can i do?
 
