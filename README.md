@@ -3,19 +3,11 @@ Welcome to my Personal ReadMe!
 Please Check this for Embed: https://github.com/anuraghazra/github-readme-stats
 -->
 
-![Hey](https://i.ibb.co/KxfgGfk/Hugoto69.png)
-
 # Hello,
 
 I speak French and English and I learn Japanese.
 <br>
 I was born on March 7, 2005.
-
-## My Favorite Games
-
-• Garry's Mod
-<br>
-• Roblox
 
 ## Projects
 
@@ -23,11 +15,7 @@ I was born on March 7, 2005.
 
 ## What can i do?
 
-• `Website Dev`
-<br>
-• `Cybersecurity Web`
-<br>
-• `Roblox Developer`
+• `Web Developer`
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=jolly)
 <br>
@@ -39,15 +27,9 @@ I was born on March 7, 2005.
 <br>
 • [Roblox](https://www.roblox.com/users/1593260565/profile)
 <br>
-• Roblox Group: Soon
-<br>
-• Discord: Soon
-<br>
 • [Instagram](https://www.instagram.com/hugo.bonnet_)
 <br>
 • [Website](https://hugoto69.page)
-<br>
-• [Steam Group](https://steamcommunity.com/groups/hugoto69)
 
 ## Email
 
