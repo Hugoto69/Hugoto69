@@ -19,7 +19,7 @@ I was born on March 7, 2005.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=github_dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoto69&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoto69&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social
 
