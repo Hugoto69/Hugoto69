@@ -17,7 +17,7 @@ I was born on March 7, 2005.
 
 • `Web Developer`
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=jolly)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=Gradient)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoto69&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
