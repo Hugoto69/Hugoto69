@@ -15,7 +15,7 @@ I was born on March 7, 2005.
 
 ## What can i do?
 
-• `Web Developer`
+• `Web Development`
 
 ## Statistics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugoto69&show_icons=true&theme=github_dark)
